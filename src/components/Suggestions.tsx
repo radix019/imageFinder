@@ -1,5 +1,5 @@
 import { Chip, Grid } from "@mui/material";
-import { memo, useState } from "react";
+import { memo } from "react";
 import { useInputsContext } from "../providers/searchInput/Inputs";
 import { suggestions } from "../data";
 
